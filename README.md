@@ -84,7 +84,7 @@ In order to deploy your application to an on-prem server with auto-provisioning,
 
 ```$xml
 <plugin>
-    <groupId>com.kloudtek.anypoint-tools</groupId>
+    <groupId>org.enhanced-mule.anypoint-tools</groupId>
     <version>1.0-SNAPSHOT</version>
     <artifactId>anypoint-maven-plugin</artifactId>
     <executions>
@@ -133,7 +133,7 @@ Use the following plugin to deploy to cloudhub
 
 ```$xml
 <plugin>
-    <groupId>com.kloudtek.anypoint-tools</groupId>
+    <groupId>org.enhanced-mule.anypoint-tools</groupId>
     <version>[latest version of plugin]</version>
     <artifactId>anypoint-maven-plugin</artifactId>
     <executions>
@@ -171,5 +171,5 @@ Anypoint tools is licensed under the CPAL License: https://opensource.org/licens
 
 # Issues
 
-Report an issues here: https://github.com/Kloudtek/anypoint-tools/issues
+Report an issues here: https://github.com/enhanced-mule/anypoint-tools/issues
 
