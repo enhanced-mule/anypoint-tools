@@ -1,15 +1,5 @@
 # Anypoint CLI
 
-## Installation
-
-### MacOS (homebrew)
-
-If you have [homebrew](https://brew.sh/) installed on your mac, you can install anypoint cli using the command
-
-```bash
-brew install kloudtek/kt/anypoint-tools
-```
-
 ## Configuration
 
 All configurations parameters can be provided through command line parameters, however you can use `anypoint config` to 
@@ -159,9 +149,5 @@ Update configuration
 # License
 
 Anypoint cli is licensed under the CPAL License: https://opensource.org/licenses/CPAL-1.0
-
-# Issues
-
-Report an issues here: https://github.com/Kloudtek/anypoint-tools/issues
 
 

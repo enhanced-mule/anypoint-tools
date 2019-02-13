@@ -4,9 +4,6 @@
         <artifactId>maven-fluido-skin</artifactId>
         <version>1.7</version>
     </skin>
-    <bannerLeft>
-        <src>https://www.kloudtek.com/javax.faces.resource/img/logo-sm.png.xhtml?ln=kt</src>
-    </bannerLeft>
     <body>
         <menu ref="parent"/>
         <menu ref="reports"/>
