@@ -1,5 +1,7 @@
 # Anypoint Tools
 
+# IMPORTANT: THIS TOOLS IS DEPRECATED AND WILL BE REPLACE WITH ANYPOINT AUTOMATOR
+
 ## Overview
 
 Although anypoint brings great capabilities to mule, it also has some severe shortcomings which make it very painful to use:
