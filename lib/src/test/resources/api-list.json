@@ -1,0 +1,51 @@
+{
+  "total": 1,
+  "assets": [
+    {
+      "audit": {
+        "created": {
+          "date": "2018-06-02T17:08:16.915Z"
+        },
+        "updated": {}
+      },
+      "masterOrganizationId": "88d26fee-1ab8-4462-beb5-0481da09529e",
+      "organizationId": "afac985c-1a3b-4750-89ab-58589dca0bb8",
+      "id": 210702792,
+      "name": "groupId:afac985c-1a3b-4750-89ab-58589dca0bb8:assetId:test",
+      "exchangeAssetName": "Test",
+      "groupId": "afac985c-1a3b-4750-89ab-58589dca0bb8",
+      "assetId": "test",
+      "apis": [
+        {
+          "audit": {
+            "created": {
+              "date": "2018-06-02T17:08:16.915Z"
+            },
+            "updated": {}
+          },
+          "masterOrganizationId": "88d26fee-1ab8-4462-beb5-0481da09529e",
+          "organizationId": "afac985c-1a3b-4750-89ab-58589dca0bb8",
+          "id": 14635174,
+          "instanceLabel": "foolabel",
+          "groupId": "afac985c-1a3b-4750-89ab-58589dca0bb8",
+          "assetId": "test",
+          "assetVersion": "1.0.0",
+          "productVersion": "v1",
+          "description": null,
+          "tags": [],
+          "order": 1,
+          "deprecated": false,
+          "lastActiveDate": null,
+          "endpointUri": null,
+          "environmentId": "6507f2de-72c6-499b-b1d3-afc70406ffbc",
+          "isPublic": false,
+          "pinned": false,
+          "activeContractsCount": 0,
+          "autodiscoveryInstanceName": "v1:14635174"
+        }
+      ],
+      "totalApis": 1,
+      "autodiscoveryApiName": "groupId:afac985c-1a3b-4750-89ab-58589dca0bb8:assetId:test"
+    }
+  ]
+}

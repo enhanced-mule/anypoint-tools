@@ -1,0 +1,14 @@
+<project name="Anypoint Tools">
+    <skin>
+        <groupId>org.apache.maven.skins</groupId>
+        <artifactId>maven-fluido-skin</artifactId>
+        <version>1.7</version>
+    </skin>
+    <bannerLeft>
+        <src>http://www.kloudtek.com/logo-dark.png</src>
+    </bannerLeft>
+    <body>
+        <menu ref="parent"/>
+        <menu ref="reports"/>
+    </body>
+</project>
